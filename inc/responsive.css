@@ -1,0 +1,26 @@
+/* Responsive */
+
+@media (min-width: 576px) {
+    .container{
+        max-width: 516px ;
+    }
+}
+@media (min-width: 768px) {
+    .container{
+        max-width: 516px ;
+    }
+    .flex-md-4{
+        flex-basis: 33.33%;
+    }
+
+}
+@media (min-width: 992px) {
+    .container{
+        max-width: 960px ;
+    }
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1170px ;
+    }
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* Utility Classes */
+
+/* Container */
+.container{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-inline: auto;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
